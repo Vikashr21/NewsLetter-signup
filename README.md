@@ -1,9 +1,15 @@
 # NewsLetter-signup
 
 **signup page using** 
--html-css-javascript-nodejs-express-js-bootstrap
 
-**Api used:  Mailchip Api
-and deployed this with heroku**
+<br>**html
+<br>css
+<br>javascript 
+<br>nodejs 
+<br>expressjs
+<br>bootstrap**
 
-check out my website: ![]("https://serene-atoll-79605.herokuapp.com/")
+<br>**Api used:  Mailchip Api
+<br> Deployed this with heroku**
+
+## check out my website: [my newsletter](https://serene-atoll-79605.herokuapp.com/)
