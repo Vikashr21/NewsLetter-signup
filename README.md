@@ -9,7 +9,7 @@
 <br>expressjs
 <br>bootstrap**
 
-<br>**Api used:  Mailchip Api
+<br>**Api used:  Mailchimp Api
 <br> Deployed this with heroku**
 
 ## check out my website: [my newsletter](https://serene-atoll-79605.herokuapp.com/)
